@@ -1,0 +1,412 @@
+asp	1	1	29.2	31.2	71.5
+asp	2	1	74.5	82.0	265.7
+asp	3	1	9.5	19.4	216.8
+asp	4	1	8.8	16.3	217.5
+asp	5	1	27.9	29.9	82.3
+asp	6	1	88.0	102.6	457.5
+asp	7	1	19.8	28.0	150.8
+asp	8	1	214.5	237.8	466.0
+asp	9	1	4.4	4.8	5.4
+asp	10	1	4.3	4.5	5.0
+asp	11	1	4.3	4.5	5.1
+asp	12	1	680.0	727.4	1233.7
+asp	13	1	637.8	698.6	1135.4
+asp	14	1	626.0	687.9	961.2
+asp	15	1	885.8	940.1	1328.4
+asp	16	1	503.7	553.5	1009.4
+asp	17	1	4.4	4.5	5.2
+asp	18	1	541.2	576.7	853.8
+asp	19	1	592.6	635.1	803.2
+asp	20	1	4.3	4.5	4.9
+asp	21	1	1328.9	1382.9	1937.9
+asp	22	1	2419.4	2485.0	3407.4
+asp	23	1	2486.2	2549.2	3080.7
+asp	24	1	2481.5	2565.2	3757.6
+asp	25	1	2627.6	2693.4	3129.7
+asp	26	1	1473.9	1522.2	1898.4
+asp	27	1	1949.8	2008.0	2312.1
+asp	28	1	4.3	4.8	10.5
+asp	29	1	4.4	4.5	4.9
+asp	30	1	57.0	75.3	164.8
+asp	31	1	28.4	33.6	97.0
+asp	32	1	5.3	5.8	29.7
+asp	33	1	27.8	38.1	240.0
+asp	34	1	17.7	31.8	110.5
+asp	35	1	5.2	5.4	5.7
+asp	36	1	32.9	43.1	114.9
+asp	37	1	20.0	23.4	110.0
+asp	38	1	5.3	5.6	14.3
+asp	39	1	5.3	5.4	7.0
+asp	40	1	5.2	5.4	5.9
+asp	41	1	5.2	5.4	5.7
+asp	42	1	5.2	5.4	5.6
+asp	43	1	5.2	5.4	5.9
+asp	44	1	5.2	5.4	5.8
+asp	45	1	5.2	5.3	5.6
+asp	46	1	5.2	5.4	11.9
+asp	47	1	82.5	88.7	227.5
+asp	48	1	79.1	85.9	217.4
+asp	49	1	5.2	5.4	5.7
+asp	50	1	5.3	5.5	12.8
+asp	51	1	73.3	77.9	174.4
+asp	52	1	5.3	7.7	207.4
+asp	53	1	5.2	5.5	7.0
+asp	54	1	70.2	78.6	196.5
+asp	55	1	5.3	5.6	7.1
+asp	56	1	5.2	5.6	7.2
+asp	57	1	78.6	83.0	130.3
+asp	58	1	69.5	99.1	493.2
+asp	59	1	5.3	5.5	7.0
+asp	1	5	29.5	36.4	54.3
+asp	2	5	76.0	86.5	128.9
+asp	3	5	9.9	22.0	224.6
+asp	4	5	9.4	18.7	33.5
+asp	5	5	30.8	38.7	70.9
+asp	6	5	90.0	99.4	160.4
+asp	7	5	21.2	26.7	47.0
+asp	8	5	227.8	240.0	324.2
+asp	9	5	7.0	10.4	16.7
+asp	10	5	5.6	10.2	16.7
+asp	11	5	6.6	10.4	17.3
+asp	12	5	711.6	772.5	1095.9
+asp	13	5	678.1	768.2	918.8
+asp	14	5	673.5	761.8	921.1
+asp	15	5	936.9	1032.4	1306.5
+asp	16	5	526.6	617.6	812.9
+asp	17	5	6.4	10.3	18.8
+asp	18	5	567.9	653.7	755.3
+asp	19	5	625.3	719.1	938.4
+asp	20	5	6.7	10.5	16.6
+asp	21	5	1421.6	1497.2	1663.6
+asp	22	5	2531.4	2751.8	3000.4
+asp	23	5	2602.8	2790.1	3653.7
+asp	24	5	2548.2	2775.9	3174.1
+asp	25	5	2737.8	2951.7	3706.7
+asp	26	5	1567.9	1673.7	2320.5
+asp	27	5	2057.8	2229.2	2582.5
+asp	28	5	6.0	10.2	16.8
+asp	29	5	5.7	10.3	17.5
+asp	30	5	58.9	70.1	107.9
+asp	31	5	28.9	36.4	86.4
+asp	32	5	7.6	11.6	19.1
+asp	33	5	29.0	36.0	83.3
+asp	34	5	19.0	25.9	80.1
+asp	35	5	6.6	12.1	20.4
+asp	36	5	34.0	43.3	98.5
+asp	37	5	21.2	27.8	73.3
+asp	38	5	6.6	11.9	17.9
+asp	39	5	6.4	12.2	20.5
+asp	40	5	6.9	11.6	18.4
+asp	41	5	7.7	12.0	20.2
+asp	42	5	7.4	11.5	17.1
+asp	43	5	6.8	11.4	18.4
+asp	44	5	8.0	11.3	17.5
+asp	45	5	7.8	11.3	19.2
+asp	46	5	7.1	11.8	17.7
+asp	47	5	83.0	94.1	152.6
+asp	48	5	80.0	89.6	147.4
+asp	49	5	6.8	11.4	17.4
+asp	50	5	6.5	11.3	18.2
+asp	51	5	73.6	92.4	182.0
+asp	52	5	7.6	11.7	17.9
+asp	53	5	7.3	11.6	18.1
+asp	54	5	98.5	207.1	401.4
+asp	55	5	7.4	11.5	17.1
+asp	56	5	7.9	11.7	26.6
+asp	57	5	79.8	88.2	158.9
+asp	58	5	77.9	181.4	1327.6
+asp	59	5	6.4	11.8	17.8
+asp	1	10	31.5	43.7	66.4
+asp	2	10	79.1	96.5	154.0
+asp	3	10	16.9	38.9	653.9
+asp	4	10	15.2	31.6	65.3
+asp	5	10	33.0	50.4	83.7
+asp	6	10	92.6	115.4	177.8
+asp	7	10	25.6	37.8	86.0
+asp	8	10	227.3	278.6	415.9
+asp	9	10	7.5	18.1	26.6
+asp	10	10	7.4	16.9	29.8
+asp	11	10	7.8	18.2	31.9
+asp	12	10	764.3	931.3	1163.1
+asp	13	10	765.7	983.9	1388.9
+asp	14	10	678.2	960.6	1220.1
+asp	15	10	935.5	1168.0	1515.5
+asp	16	10	587.3	751.8	1006.9
+asp	17	10	8.4	17.2	29.8
+asp	18	10	580.7	807.4	1023.0
+asp	19	10	661.8	869.9	1208.8
+asp	20	10	8.1	16.8	30.6
+asp	21	10	1488.2	1879.8	2597.1
+asp	22	10	2758.3	3382.2	4556.9
+asp	23	10	2817.0	3489.0	4345.7
+asp	24	10	2732.4	3335.9	4104.7
+asp	25	10	2972.6	3622.4	4288.3
+asp	26	10	1720.0	2097.4	2834.5
+asp	27	10	2218.6	2613.3	3430.2
+asp	28	10	7.2	17.0	27.3
+asp	29	10	7.2	17.9	28.3
+asp	30	10	61.0	81.7	118.8
+asp	31	10	33.5	44.6	69.9
+asp	32	10	7.4	19.3	35.2
+asp	33	10	30.5	46.0	72.2
+asp	34	10	21.8	37.9	83.0
+asp	35	10	8.8	19.5	35.1
+asp	36	10	39.6	54.1	82.2
+asp	37	10	28.1	40.0	72.5
+asp	38	10	8.9	19.1	33.6
+asp	39	10	9.4	19.1	32.1
+asp	40	10	8.4	19.2	30.2
+asp	41	10	9.1	19.1	28.2
+asp	42	10	9.9	19.3	34.6
+asp	43	10	6.0	19.1	30.7
+asp	44	10	8.5	19.1	37.0
+asp	45	10	9.0	18.9	28.2
+asp	46	10	8.0	18.9	33.1
+asp	47	10	84.0	124.9	259.0
+asp	48	10	81.1	114.3	230.2
+asp	49	10	8.8	19.0	29.8
+asp	50	10	8.7	18.7	33.6
+asp	51	10	76.6	103.5	162.4
+asp	52	10	9.1	19.1	30.5
+asp	53	10	8.6	19.2	30.7
+asp	54	10	82.0	289.0	684.1
+asp	55	10	9.6	19.3	33.2
+asp	56	10	8.7	18.7	37.1
+asp	57	10	80.0	106.7	231.7
+asp	58	10	82.9	193.6	428.7
+asp	59	10	9.5	18.3	31.1
+aspx	1	1	20.1	21.5	107.5
+aspx	2	1	56.3	66.0	158.6
+aspx	3	1	44.9	55.6	193.0
+aspx	4	1	2.3	2.4	2.8
+aspx	5	1	19.0	19.4	20.1
+aspx	6	1	70.8	82.8	244.9
+aspx	7	1	15.9	20.7	108.0
+aspx	8	1	128.4	154.5	372.3
+aspx	9	1	2.3	2.5	14.8
+aspx	10	1	2.3	2.4	2.9
+aspx	11	1	2.3	2.3	2.8
+aspx	12	1	428.2	484.7	761.8
+aspx	13	1	380.4	440.6	916.1
+aspx	14	1	371.8	421.1	692.7
+aspx	15	1	448.3	519.3	1439.8
+aspx	16	1	308.8	351.1	957.0
+aspx	17	1	2.2	2.4	3.1
+aspx	18	1	331.2	374.0	681.7
+aspx	19	1	357.0	420.5	922.6
+aspx	20	1	2.3	2.4	2.7
+aspx	21	1	754.3	842.8	2281.3
+aspx	22	1	889.1	955.4	1241.8
+aspx	23	1	903.6	973.5	1440.4
+aspx	24	1	905.6	983.1	1413.3
+aspx	25	1	910.0	986.4	1533.2
+aspx	26	1	798.8	853.3	1229.5
+aspx	27	1	899.7	957.9	1249.1
+aspx	28	1	2.3	2.5	12.1
+aspx	29	1	2.3	2.4	2.6
+aspx	30	1	50.9	54.9	145.8
+aspx	31	1	21.2	21.7	23.4
+aspx	32	1	2.3	2.4	2.8
+aspx	33	1	22.4	23.1	25.5
+aspx	34	1	11.8	12.1	13.4
+aspx	35	1	2.3	2.4	2.7
+aspx	36	1	27.9	29.2	66.9
+aspx	37	1	15.5	16.2	43.8
+aspx	38	1	2.3	2.4	2.8
+aspx	39	1	2.3	2.4	2.7
+aspx	40	1	2.3	2.4	3.0
+aspx	41	1	2.3	2.4	2.6
+aspx	42	1	2.3	2.4	2.7
+aspx	43	1	2.2	2.4	2.9
+aspx	44	1	2.3	2.4	2.7
+aspx	45	1	2.3	2.4	2.7
+aspx	46	1	2.3	2.4	2.6
+aspx	47	1	78.3	84.0	168.6
+aspx	48	1	75.1	83.6	208.4
+aspx	49	1	2.3	2.4	2.9
+aspx	50	1	2.3	3.3	88.7
+aspx	51	1	69.1	78.0	155.6
+aspx	52	1	2.3	2.6	30.4
+aspx	53	1	2.3	4.4	205.4
+aspx	54	1	65.6	79.3	161.0
+aspx	55	1	2.3	2.4	2.6
+aspx	56	1	2.3	2.4	2.5
+aspx	57	1	76.2	82.2	206.3
+aspx	58	1	31.5	33.9	82.2
+aspx	59	1	2.3	2.9	53.9
+aspx	1	5	20.1	26.4	35.9
+aspx	2	5	56.8	66.3	110.2
+aspx	3	5	46.4	54.6	82.3
+aspx	4	5	4.1	7.6	13.4
+aspx	5	5	22.0	26.2	31.7
+aspx	6	5	71.6	84.0	150.5
+aspx	7	5	16.7	22.5	39.1
+aspx	8	5	131.9	150.1	291.1
+aspx	9	5	3.6	7.6	13.0
+aspx	10	5	4.1	7.5	13.0
+aspx	11	5	4.2	7.6	13.6
+aspx	12	5	438.2	503.6	686.1
+aspx	13	5	399.1	495.5	683.4
+aspx	14	5	389.9	492.6	619.4
+aspx	15	5	461.0	529.1	736.5
+aspx	16	5	325.8	411.8	658.3
+aspx	17	5	4.1	7.6	12.8
+aspx	18	5	347.7	436.3	614.3
+aspx	19	5	369.7	458.0	709.6
+aspx	20	5	4.3	7.8	14.0
+aspx	21	5	772.4	876.8	1109.2
+aspx	22	5	909.0	1029.1	1394.9
+aspx	23	5	917.0	1034.7	1293.1
+aspx	24	5	926.5	1040.9	1237.8
+aspx	25	5	933.8	1048.1	1315.9
+aspx	26	5	817.8	942.8	1192.8
+aspx	27	5	910.4	1005.1	1183.8
+aspx	28	5	4.4	7.4	12.8
+aspx	29	5	4.1	7.4	12.7
+aspx	30	5	52.0	60.2	115.2
+aspx	31	5	22.3	29.5	44.9
+aspx	32	5	4.1	7.5	12.9
+aspx	33	5	23.5	29.5	47.4
+aspx	34	5	13.3	18.7	26.3
+aspx	35	5	4.2	7.6	12.8
+aspx	36	5	28.6	36.0	61.8
+aspx	37	5	16.6	21.7	30.4
+aspx	38	5	4.2	7.6	12.8
+aspx	39	5	4.2	7.5	12.8
+aspx	40	5	4.5	7.6	13.5
+aspx	41	5	4.2	7.5	12.6
+aspx	42	5	4.0	7.5	13.1
+aspx	43	5	4.3	7.4	13.1
+aspx	44	5	3.5	7.6	13.1
+aspx	45	5	4.2	7.4	12.8
+aspx	46	5	4.6	7.7	12.7
+aspx	47	5	78.7	88.9	131.5
+aspx	48	5	75.2	88.8	172.2
+aspx	49	5	3.6	7.5	12.7
+aspx	50	5	4.7	7.7	13.1
+aspx	51	5	71.6	84.2	288.4
+aspx	52	5	4.1	7.8	13.4
+aspx	53	5	4.3	7.6	13.2
+aspx	54	5	147.7	205.1	437.8
+aspx	55	5	3.8	7.7	13.1
+aspx	56	5	4.5	7.8	13.3
+aspx	57	5	76.8	86.2	147.1
+aspx	58	5	72.2	93.5	123.6
+aspx	59	5	4.3	7.5	12.5
+aspx	1	10	23.2	35.4	55.2
+aspx	2	10	59.6	76.6	126.6
+aspx	3	10	47.8	61.1	96.9
+aspx	4	10	5.6	12.7	24.5
+aspx	5	10	22.2	35.8	63.7
+aspx	6	10	74.0	101.4	212.5
+aspx	7	10	18.5	31.2	57.1
+aspx	8	10	133.8	160.3	239.9
+aspx	9	10	5.5	12.4	24.1
+aspx	10	10	5.5	12.7	24.3
+aspx	11	10	5.5	12.7	23.2
+aspx	12	10	444.7	521.4	635.0
+aspx	13	10	413.6	564.9	727.6
+aspx	14	10	403.2	597.1	892.5
+aspx	15	10	471.1	571.3	781.7
+aspx	16	10	339.4	472.6	627.1
+aspx	17	10	4.8	12.6	24.6
+aspx	18	10	374.4	498.2	757.0
+aspx	19	10	398.0	526.9	740.7
+aspx	20	10	5.3	12.6	24.6
+aspx	21	10	787.3	941.8	1154.5
+aspx	22	10	962.8	1143.3	1477.3
+aspx	23	10	965.4	1146.1	1425.6
+aspx	24	10	966.6	1159.6	1502.0
+aspx	25	10	977.9	1170.9	1661.0
+aspx	26	10	852.4	995.8	1193.8
+aspx	27	10	928.2	1110.6	1358.6
+aspx	28	10	5.7	12.8	24.4
+aspx	29	10	5.8	12.6	23.7
+aspx	30	10	52.5	69.9	162.6
+aspx	31	10	28.5	44.0	126.8
+aspx	32	10	5.5	12.4	25.6
+aspx	33	10	27.7	39.6	55.0
+aspx	34	10	15.9	26.4	40.1
+aspx	35	10	4.9	12.8	26.5
+aspx	36	10	32.1	47.5	70.0
+aspx	37	10	22.2	32.2	44.5
+aspx	38	10	5.4	12.6	24.5
+aspx	39	10	5.2	13.9	25.3
+aspx	40	10	5.4	12.3	24.2
+aspx	41	10	5.1	12.4	23.6
+aspx	42	10	5.6	12.7	23.4
+aspx	43	10	6.5	14.2	24.5
+aspx	44	10	5.5	14.1	26.5
+aspx	45	10	5.5	12.8	23.6
+aspx	46	10	4.9	13.7	25.0
+aspx	47	10	80.9	97.4	137.9
+aspx	48	10	76.3	96.6	145.8
+aspx	49	10	4.4	13.0	24.6
+aspx	50	10	5.1	13.0	24.7
+aspx	51	10	72.0	93.0	165.4
+aspx	52	10	4.2	12.6	23.1
+aspx	53	10	4.5	12.5	24.5
+aspx	54	10	54.2	306.2	623.7
+aspx	55	10	5.5	13.0	26.5
+aspx	56	10	5.4	12.3	23.9
+aspx	57	10	80.1	99.6	160.7
+aspx	58	10	87.1	156.3	208.4
+aspx	59	10	5.5	12.8	24.3
+1	username=hotelshopuni&rooms=1&childAgeR1C1=13&password=shop24&checkin_date=29/07/2016&langID=GE&adlts_1=1&child_1=1&dstn=PMI&nights=7
+2	username=hotelshopuni&rooms=1&childAgeR1C1=12&childAgeR1C2=13&password=shop24&checkin_date=23/06/2016&langID=GE&adlts_1=2&child_1=2&dstn=PMI&nights=15
+3	username=hotelshopuni&rooms=1&password=shop24&checkin_date=16/09/2016&langID=GE&adlts_1=2&child_1=0&dstn=VCE&nights=3
+4	username=hotelshopuni&rooms=1&password=shop24&checkin_date=01/05/2016&langID=GE&adlts_1=2&child_1=0&dstn=PMO&nights=4
+5	username=hotelshopuni&rooms=1&childAgeR1C1=13&childAgeR1C2=13&childAgeR1C3=14&password=shop24&checkin_date=13/07/2016&langID=GE&adlts_1=1&child_1=3&dstn=PMI&nights=5
+6	username=hotelshopuni&rooms=1&password=shop24&checkin_date=30/06/2016&langID=GE&adlts_1=1&child_1=0&dstn=CUN&nights=13
+7	username=hotelshopuni&rooms=1&password=shop24&checkin_date=04/09/2016&langID=GE&adlts_1=2&child_1=0&dstn=AMS&nights=4
+8	username=hotelshopuni&rooms=1&password=shop24&checkin_date=03/08/2016&langID=GE&adlts_1=2&child_1=0&dstn=SKG&nights=7
+9	username=hotelshopuni&rooms=1&childAgeR1C1=1&password=shop24&checkin_date=15/04/2016&langID=GE&adlts_1=2&child_1=1&dstn=IST&nights=3
+10	username=hotelshopuni&rooms=1&password=shop24&checkin_date=07/04/2016&langID=GE&adlts_1=2&child_1=0&dstn=IST&nights=5
+11	username=hotelshopuni&rooms=1&password=shop24&checkin_date=01/05/2016&langID=GE&adlts_1=2&child_1=0&dstn=PMI&nights=3
+12	username=hotelshopuni&rooms=1&password=shop24&checkin_date=12/07/2016&langID=GE&adlts_1=2&child_1=0&dstn=PMI&nights=9
+13	username=hotelshopuni&rooms=1&password=shop24&checkin_date=03/07/2016&langID=GE&adlts_1=2&child_1=0&dstn=PMI&nights=7
+14	username=hotelshopuni&rooms=1&password=shop24&checkin_date=01/06/2016&langID=GE&adlts_1=2&child_1=0&dstn=PMI&nights=8
+15	username=hotelshopuni&rooms=1&password=shop24&checkin_date=29/08/2016&langID=GE&adlts_1=2&child_1=0&dstn=CHQ&nights=14
+16	username=hotelshopuni&rooms=1&password=shop24&checkin_date=04/06/2016&langID=GE&adlts_1=2&child_1=0&dstn=FAO&nights=7
+17	username=hotelshopuni&rooms=1&password=shop24&checkin_date=19/05/2016&langID=GE&adlts_1=1&child_1=0&dstn=AYT&nights=7
+18	username=hotelshopuni&rooms=1&password=shop24&checkin_date=09/06/2016&langID=GE&adlts_1=2&child_1=0&dstn=PMI&nights=5
+19	username=hotelshopuni&rooms=1&password=shop24&checkin_date=06/06/2016&langID=GE&adlts_1=2&child_1=0&dstn=PMI&nights=5
+20	username=hotelshopuni&rooms=1&password=shop24&checkin_date=30/04/2016&langID=GE&adlts_1=2&child_1=0&dstn=AYT&nights=9
+21	username=hotelshopuni&rooms=1&password=shop24&checkin_date=04/06/2016&langID=GE&adlts_1=2&child_1=0&dstn=DXB&nights=4
+22	username=hotelshopuni&rooms=1&password=shop24&checkin_date=04/06/2016&langID=GE&adlts_1=2&child_1=0&dstn=AYT&nights=7
+23	username=hotelshopuni&rooms=1&childAgeR1C1=6&password=shop24&checkin_date=23/07/2016&langID=GE&adlts_1=2&child_1=1&dstn=AYT&nights=7
+24	username=hotelshopuni&rooms=1&childAgeR1C1=6&password=shop24&checkin_date=21/07/2016&langID=GE&adlts_1=2&child_1=1&dstn=AYT&nights=7
+25	username=hotelshopuni&rooms=1&password=shop24&checkin_date=13/09/2016&langID=GE&adlts_1=2&child_1=0&dstn=AYT&nights=9
+26	username=hotelshopuni&rooms=1&password=shop24&checkin_date=06/06/2016&langID=GE&adlts_1=2&child_1=0&dstn=DXB&nights=7
+27	username=hotelshopuni&rooms=1&password=shop24&checkin_date=05/06/2016&langID=GE&adlts_1=2&child_1=0&dstn=DXB&nights=29
+28	username=hotelshopuni&rooms=1&password=shop24&checkin_date=25/05/2016&langID=GE&adlts_1=2&child_1=0&dstn=DXB&nights=6
+29	username=hotelshopuni&rooms=1&password=shop24&checkin_date=23/05/2016&langID=GE&adlts_1=2&child_1=0&dstn=DXB&nights=7
+30	username=dynagermany&rooms=1&childAgeR1C1=9&password=dynamic1&checkin_date=09/08/2016&langID=GE&adlts_1=2&child_1=1&dstn=LPA&hid=10182&nights=13
+31	username=dynagermany&rooms=1&password=dynamic1&checkin_date=05/06/2016&langID=GE&adlts_1=4&child_1=0&dstn=ACE&hid=7479&nights=9
+32	username=dynagermany&rooms=1&childAgeR1C1=1&childAgeR1C2=6&password=dynamic1&checkin_date=17/04/2016&langID=GE&adlts_1=2&child_1=2&dstn=AYT&hid=6419&nights=3
+33	username=dynagermany&rooms=1&password=dynamic1&checkin_date=06/07/2016&langID=GE&adlts_1=3&child_1=0&dstn=REU&hid=2914&nights=7
+34	username=dynagermany&rooms=1&childAgeR1C1=6&password=dynamic1&checkin_date=31/07/2016&langID=GE&adlts_1=2&child_1=1&dstn=RMF&hid=6406&nights=7
+35	username=dynagermany&rooms=1&childAgeR1C1=6&password=dynamic1&checkin_date=14/04/2016&langID=GE&adlts_1=2&child_1=1&dstn=RMF&hid=6406&nights=7
+36	username=dynagermany&rooms=1&childAgeR1C1=4&childAgeR1C2=12&password=dynamic1&checkin_date=01/11/2016&langID=GE&adlts_1=2&child_1=2&dstn=AYT&hid=12560&nights=4
+37	username=ftihotelshop&rooms=1&password=ftitour&checkin_date=24/06/2016&langID=GE&adlts_1=1&child_1=0&dstn=CFU&hid=3804&nights=4
+38	username=dynagermany&rooms=1&password=dynamic1&checkin_date=03/05/2016&langID=GE&adlts_1=2&child_1=0&dstn=PUJ&hid=18333&nights=18
+39	username=ftihotelshop&rooms=1&password=ftitour&checkin_date=06/05/2016&langID=GE&adlts_1=2&child_1=0&dstn=USM&hid=6907&nights=1
+40	username=hotelshopuni&rooms=1&password=shop24&checkin_date=23/05/2016&langID=GE&adlts_1=2&child_1=0&dstn=DXB&hid=2287&nights=7
+41	username=dynagermany&rooms=1&password=dynamic1&checkin_date=05/04/2016&langID=GE&adlts_1=2&child_1=0&dstn=PMI&hid=5499&nights=7
+42	username=dynagermany&rooms=1&password=dynamic1&checkin_date=14/05/2016&langID=GE&adlts_1=3&child_1=0&dstn=RHO&hid=4944&nights=7
+43	username=dynagermany&rooms=1&password=dynamic1&checkin_date=21/05/2016&langID=GE&adlts_1=2&child_1=0&dstn=AYT&hid=7467&nights=8
+44	username=ftihotelshop&rooms=1&password=ftitour&checkin_date=29/04/2016&langID=GE&adlts_1=3&child_1=0&dstn=MLA&hid=3493&nights=4
+45	username=dynagermany&rooms=1&password=dynamic1&checkin_date=18/04/2016&langID=GE&adlts_1=2&child_1=0&dstn=TFS&hid=368&nights=7
+46	username=dynagermany&rooms=1&password=dynamic1&checkin_date=18/05/2016&langID=GE&adlts_1=2&child_1=0&dstn=DXB&hid=8859&nights=5
+47	username=dynagermany&rooms=1&childAgeR1C1=7&childAgeR1C2=11&password=dynamic1&checkin_date=02/09/2016&langID=GE&adlts_1=2&child_1=2&dstn=DXB&hid=8677&nights=9
+48	username=dynagermany&rooms=1&childAgeR1C1=7&childAgeR1C2=11&password=dynamic1&checkin_date=02/09/2016&langID=GE&adlts_1=2&child_1=2&dstn=DXB&hid=8677&nights=8
+49	username=dynagermany&rooms=1&password=dynamic1&checkin_date=02/05/2016&langID=GE&adlts_1=2&child_1=0&dstn=IST&hid=11974&nights=6
+50	username=ftihotelshop&rooms=1&password=ftitour&checkin_date=17/04/2016&langID=GE&adlts_1=2&child_1=0&dstn=PMI&hid=243&nights=5&bt_sc=1&bt_ro=1
+51	username=dynagermany&rooms=1&password=dynamic1&checkin_date=01/06/2016&langID=GE&adlts_1=2&child_1=0&dstn=PMI&hid=16318&nights=8
+52	username=dynagermany&rooms=1&password=dynamic1&checkin_date=06/04/2016&langID=GE&adlts_1=2&child_1=0&dstn=PMI&hid=5499&nights=7
+53	username=dynagermany&rooms=1&password=dynamic1&checkin_date=01/04/2016&langID=GE&adlts_1=2&child_1=0&dstn=PMI&hid=5499&nights=7
+54	username=ftihotelshop&rooms=1&password=ftitour&checkin_date=30/06/2016&langID=GE&adlts_1=2&child_1=0&dstn=FAO&hid=5865&nights=1
+55	username=dynagermany&rooms=1&password=dynamic1&checkin_date=07/04/2016&langID=GE&adlts_1=2&child_1=0&dstn=FAO&hid=407&nights=7
+56	username=dynagermany&rooms=1&password=dynamic1&checkin_date=13/04/2016&langID=GE&adlts_1=2&child_1=0&dstn=FAO&hid=407&nights=7
+57	username=dynagermany&rooms=1&password=dynamic1&checkin_date=31/07/2016&langID=GE&adlts_1=2&child_1=0&dstn=FAO&hid=407&nights=7
+58	username=ftihotelshop&rooms=1&password=ftitour&checkin_date=29/05/2016&langID=GE&adlts_1=2&child_1=0&dstn=VRN&hid=12582&nights=3
